@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Guardian
+namespace Guardian.User_interface
 {
-    public partial class Form1 : Form
+    public partial class AutorizationForm : Form
     {
-        public Form1()
+        public AutorizationForm()
         {
             InitializeComponent();
         }
